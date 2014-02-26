@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: [csv2iati]
 title: CSV2IATI Converter Updates
 ---
 

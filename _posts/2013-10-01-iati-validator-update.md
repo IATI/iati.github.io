@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [validator]
+title: Public Validator upgaded to 1.03
 ---
 
 [IATI Public Validator](http://tools.aidinfolabs.org/validator/) is a simple tool to allow people to check whether or not their IATI XML validates against the schema. As we now have a few different versions of the schema, we need to make sure users can select the appropriate version against which they wish to check their data.

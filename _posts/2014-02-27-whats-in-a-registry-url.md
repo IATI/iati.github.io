@@ -17,7 +17,7 @@ The source XML linked to [CO_2014/Afghanistan_projects.xml](http://www.undp.org/
 
 We wanted to encourage a framework of non date-specific package names and URL, reverting back to the original position of:
 
-http://iatiregistry.org/dataset/undp-afg (no date in URL)
+    http://iatiregistry.org/dataset/undp-afg (no date in URL)
 
 with the title:
 

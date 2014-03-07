@@ -3,6 +3,8 @@ layout: post
 title: What's in a Registry URL?
 ---
 
+*By Steven Flower*
+
 The United Nations Development Programme have long published lots of data as IATI XML, and shared it via the IATI Registry.  They currently have 154 activity files that (today) detail some 7396 activities ([source](http://iati.github.io/IATI-Dashboard/publisher/undp.html)).
 
 In terms of these 154 files, we noticed a pattern of including date-specifics in the package name and URL.  So, in the latest update Afghanistan was expressed as:
